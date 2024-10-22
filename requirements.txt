@@ -1,0 +1,15 @@
+aiofiles
+argparse
+asyncio
+colorama
+csv
+dns.resolver
+geoip2
+ipaddress
+ipwhois
+json
+logging
+requests
+socket
+subprocess
+whois
